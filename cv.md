@@ -38,9 +38,14 @@ Bachelor of Computer Science (2006 – 2010)
 
 ## Work history
 
-### GitLab | Frontend Engineer (2019 - Present)
+### GitLab | Senior Frontend Engineer (2019 - Present)
 
-Working remotely for [GitLab](https://gitlab.com/ekigbo) as part of the manage team.
+Working remotely for [GitLab](https://gitlab.com/ekigbo) as part of the manage team. Working on features across user profiles, project and group management and analytics with a focus on Value stream
+management.
+
+- Frontend Maintainer
+- Frontend Engineer - Manage stage
+- Vue, Ruby + Rails
 
 ### Freelance / Contracting (2017 - 2019)
 
