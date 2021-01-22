@@ -22,13 +22,13 @@ I am constantly looking to grow, professionally and personally, so when i'm not 
 
 ## Key skills
 
-- Frontend - React / Redux, AngularJS (1.x.x), BackboneJS, CSS, HTML5
-- RESTful APIs - ExpressJS / HapiJS, Django, Laravel
-- Languages - Javascript, Python, Golang, Rust, PHP
+- Frontend - VueJS, React / Redux, ReasonML, CSS, HTML5
+- RESTful APIs - Express, Rails, Django
+- Languages - Javascript, Golang, Ruby, Python, Rust
 - Databases - Mysql, Postgres, MongoDB, SQLlite
-- Tools - Git, Webpack, Gulpjs, Composer, shell scripting
+- Tools - Git, Shell scripting, Docker, Webpack, ParcelJS,
 - Deployment - Docker, Ansible
-- Testing - Jest, Jasmine, Mocha, Chai, PHPUnit, Codeception, Protractor
+- Testing - TDD / BDD / E2E, Jest, RSpec etc
 - Creative coding - Webaudio, WebGL, Processing framework (Java) / openFrameworks (C++) / Supercollider
 
 ## Education
