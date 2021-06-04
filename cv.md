@@ -47,6 +47,11 @@ management.
 - Frontend Engineer - Manage stage
 - Vue, Ruby + Rails
 
+#### Key takeaways
+* Built an eslint plugin for detecting i18n strings
+* Rebuilt Value stream analytics while delivering new features
+* Produced and Instructed a online course on Frontend Engineering to a group of Morehouse college CS students
+
 ### Freelance / Contracting (2017 - 2019)
 
 - [Code for australia](http://codeforaustralia.org/)
